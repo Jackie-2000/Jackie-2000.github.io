@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Qianqi Yan"
 title_separator          : "-"
-name                     : &name "Kaizhi Zheng"
-description              : &description "CS PhD student at University of California, Santa Cruz"
-url                      : https://KzZheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qianqi Yan"
+description              : &description "CS PhD student @ University of California, Santa Cruz"
+url                      : https://Jackie-2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KzZheng.github.io"
+repository               : "qianqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaizhi Zheng"
+  name             : "Qianqi Yan"
   avatar           : "cyber1.png"
-  bio              : "CSE Ph.D. student at University of California, Santa Cruz"
-  location         : "Santa Cruz, California"
+  bio              : "CSE Ph.D. student @ University of California, Santa Cruz"
+  location         : "Sunnyvale, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jLa6wpUAAAAJ&hl=en"
-  email            : "zhengkz@ucsc.edu"
+  email            : "qyan79@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KzZheng"
+  github           : "Jackie-2000"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kaizhi-zheng"
+  linkedin         : "qianqi-yan"
   orcid            : #"http://orcid.org/0000-0003-3534-3487"
   pinterest        :
   soundcloud       :

@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Kaizhi Zheng (郑恺之), a third-year CSE Ph.D. student at the University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/). Previously I was an M.S' student at the University of Michigan, Ann Arbor, working with Prof. [Chad Jenkins](https://ocj.name/).
+I am Qianqi "Jackie" Yan, a first-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
+
+I obtained my dual bachelor's degrees from the University of Michigan and Shanghai Jiao Tong University in 2023. Previously, I worked with Professors [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
 Research Interests
 ------
-My research interests focus on multi-modality understanding for embodied AI. My research goal is to establish intelligent agents who can understand and interact with the environment. Feel free to email me if you have common interests in this area. I will be happy to talk with you!
+My research interests focus on visual-language models, AI for healthcare, and embodied AI. Please feel free to email me if you have any interest in this area. I will be happy to talk with you ;)
 
 News
 ------

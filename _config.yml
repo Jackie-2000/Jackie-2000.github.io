@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaizhi Zheng"
+title                    : "Qianqi Yan"
 title_separator          : "-"
-name                     : &name "Kaizhi Zheng"
-description              : &description "CS PhD student at University of California, Santa Cruz"
+name                     : &name "Qianqi Yan"
+description              : &description "CS PhD student @ University of California, Santa Cruz"
 url                      : https://KzZheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KzZheng.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaizhi Zheng"
-  avatar           : "cyber1.png"
-  bio              : "CSE Ph.D. student at University of California, Santa Cruz"
-  location         : "Santa Cruz, California"
+  name             : "Qianqi Yan"
+  avatar           : "avatar2.png"
+  bio              : "CSE Ph.D. student @ University of California, Santa Cruz"
+  location         : "Sunnyvale, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jLa6wpUAAAAJ&hl=en"
-  email            : "zhengkz@ucsc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=MYrX5ooAAAAJ&hl=en"
+  email            : "qyan79@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KzZheng"
+  github           : "Jackie-2000"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kaizhi-zheng"
+  linkedin         : "qianqi-yan"
   orcid            : #"http://orcid.org/0000-0003-3534-3487"
   pinterest        :
   soundcloud       :

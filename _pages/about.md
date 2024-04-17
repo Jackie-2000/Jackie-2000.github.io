@@ -29,7 +29,7 @@ Publication & Preprints
 * Med-HVL: Automatic Medical Domain Hallucination Evaluation for Large Vision-Language Models \
   **Qianqi Yan**, Xuehai He, Xin Eric Wang \
   AAAI 2024 Spring Symposium on Clinical Foundation Models \
-  <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MYrX5ooAAAAJ&citation_for_view=MYrX5ooAAAAJ:u-x6o8ySG0sC'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+  <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MYrX5ooAAAAJ&citation_for_view=MYrX5ooAAAAJ:u-x6o8ySG0sC'><img src='https://img.shields.io/badge/Paper-Open_Review-red'></a>
 
 Service
 ------

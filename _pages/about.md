@@ -31,9 +31,21 @@ Publication & Preprints
   AAAI 2024 Spring Symposium on Clinical Foundation Models \
   <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MYrX5ooAAAAJ&citation_for_view=MYrX5ooAAAAJ:u-x6o8ySG0sC'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
+Service
+------
+Program Committee Member (Reviewer)
+* ICLR 2024, ICCV 2023
 
 Education
 ------
 * Ph.D. in Computer Science, University of California, Santa Cruz, 2023 - present
 * B.S.E. in Computer Science, University of Michigan (Ann Arbor), 2021 - 2023
 * B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2019 - 2023
+* Visiting Student, Technische Universit¨at Berlin, 2020
+
+Teaching
+------
+* CSE101: Introduction to Data Structures and Algorithms, University of California, Santa Cruz
+* EECS 448: Human-Centered Machine Learning, University of Michigan, Ann Arbor
+* VE 215: Intro to Circuits, Shanghai Jiao Tong University
+* VG 101: Intro to Computers and Programming, Shanghai Jiao Tong University

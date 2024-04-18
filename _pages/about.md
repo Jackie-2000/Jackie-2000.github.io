@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Qianqi "Jackie" Yan, a first-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
 
-I obtained my dual bachelor's degrees from the University of Michigan and Shanghai Jiao Tong University in 2023. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
+I obtained my dual bachelor's degrees from the University of Michigan, Ann Arbor and Shanghai Jiao Tong University in 2023. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
 Research Interests
 ------

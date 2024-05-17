@@ -23,7 +23,7 @@ Publication & Preprints
 ------
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
   Yue Fan, Jing Gu, Kaiwen Zhou, **Qianqi Yan**, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang\
-  Preprint \
+  ACL 2024 \
   <a href='https://arxiv.org/abs/2401.15847'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://sites.google.com/view/multipanelvqa/home'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MultipanelVQA'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
 
 * Med-HVL: Automatic Medical Domain Hallucination Evaluation for Large Vision-Language Models \

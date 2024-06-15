@@ -21,14 +21,19 @@ News
 
 Publication & Preprints
 ------
+* Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
+  **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
+  *Under Review* \
+  <a href='https://arxiv.org/abs/2405.20421'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/probmed.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/ProbMed'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
+  
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
   Yue Fan, Jing Gu, Kaiwen Zhou, **Qianqi Yan**, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang\
-  Under Review \
+  *ACL 2024* \
   <a href='https://arxiv.org/abs/2401.15847'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://sites.google.com/view/multipanelvqa/home'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MultipanelVQA'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
 
 * Med-HVL: Automatic Medical Domain Hallucination Evaluation for Large Vision-Language Models \
   **Qianqi Yan**, Xuehai He, Xin Eric Wang \
-  AAAI 2024 Spring Symposium on Clinical Foundation Models \
+  *AAAI 2024 Spring Symposium on Clinical Foundation Models* \
   <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MYrX5ooAAAAJ&citation_for_view=MYrX5ooAAAAJ:u-x6o8ySG0sC'><img src='https://img.shields.io/badge/Paper-Open_Review-red'></a>
 
 Service

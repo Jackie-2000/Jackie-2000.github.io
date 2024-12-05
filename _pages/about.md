@@ -7,23 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a second year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
+I am Qianqi "Jackie" Yan, a second-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
 
-I obtained my dual bachelor's degrees from the University of Michigan, Ann Arbor and Shanghai Jiao Tong University in 2023. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
+I obtained my dual bachelor's degrees from the University of Michigan, Ann Arbor, and Shanghai Jiao Tong University in 2023. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
 Research Interests
 ------
-My research interests focus on visual-language models, AI for healthcare, and embodied AI. Please don't hesitate to email me if you are interested in this area. I will be happy to talk with you ;)
+My research interests focus on trustworthy AI models and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to talk with you ;)
 
 News
 ------
+* [2024.12] I will be attending Neurips 2024 and presenting at the [GenAI4Health Workshop](https://genai4health.github.io/). Please feel free to reach out for a coffee chat!
 * [2024.04] I will join eBay as a research intern in 2024 summer.
 
 Publication & Preprints
 ------
 * Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
   **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
-  *Under Review* \
+  *Neurips 2024 GenAI4Health Workshop* \
   <a href='https://arxiv.org/abs/2405.20421'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/probmed.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/ProbMed'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
@@ -39,7 +40,8 @@ Publication & Preprints
 Service
 ------
 Program Committee Member (Reviewer)
-* ICLR 2024, ICCV 2023
+* Main Conference: ICLR 2025, ICLR 2024, ICCV 2023
+* Workshop: ALVR 2024
 
 Education
 ------

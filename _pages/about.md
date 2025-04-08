@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a second-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
+I am Qianqi "Jackie" Yan, a third-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
 
 I obtained my dual bachelor's degrees from the University of Michigan, Ann Arbor, and Shanghai Jiao Tong University in 2023. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
@@ -17,11 +17,17 @@ My research interests focus on trustworthy AI models and AI for healthcare. Plea
 
 News
 ------
+* [2025.04] I will join Oracle Health AI as a research intern in 2025 summer.
 * [2024.12] I will be attending Neurips 2024 and presenting at the [GenAI4Health Workshop](https://genai4health.github.io/). Please feel free to reach out for a coffee chat!
 * [2024.04] I will join eBay as a research intern in 2024 summer.
 
 Publication & Preprints
 ------
+* Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \
+  **Qianqi Yan**, Yue Fan, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
+  *Under Review* \
+  <a href='https://arxiv.org/abs/2502.16033'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/mmir.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MMIR'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
+  
 * Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
   **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
   *Neurips 2024 GenAI4Health Workshop* \

@@ -31,12 +31,12 @@ Publication & Preprints
   
 * Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \
   **Qianqi Yan**, Yue Fan, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
-  *ACL 2025* \
+  *ACL 2025 Findings* \
   <a href='https://arxiv.org/abs/2502.16033'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/mmir.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MMIR'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
   **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
-  *ACL 2025* \
+  *ACL 2025 Findings* \
   <a href='https://arxiv.org/abs/2405.20421'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/probmed.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/ProbMed'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \

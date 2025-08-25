@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a second-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab.
+I am Qianqi "Jackie" Yan, a second-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at eBay as a research scientist. 
 
 I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
@@ -17,16 +17,17 @@ I work on multimodal LLMs. My research interests focus on trustworthy AI models 
 
 News
 ------
+* [2025.08] One paper accepted to EMNLP 2025! I will be attending EMNLP 2025 in Suzhou, China. Please feel free to reach out for a chat!
 * [2025.05] Two papers accepted to ACL 2025!
 * [2025.04] I will join Oracle Health AI as a research intern in the 2025 summer.
-* [2024.12] I will be attending Neurips 2024 and presenting at the [GenAI4Health Workshop](https://genai4health.github.io/). Please feel free to reach out for a coffee chat!
+* [2024.12] I will be attending Neurips 2024 and presenting at the [GenAI4Health Workshop](https://genai4health.github.io/).
 * [2024.04] I will join eBay as a research intern in the 2024 summer.
 
 Publication & Preprints
 ------
-* Hidden in Plain Sight: Probing Implicit Reasoning in Multimodal Language Models \
+* Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs \
   **Qianqi Yan**, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
-  *Under Review* \
+  *EMNLP 2025 Mainw* \
   <a href='https://arxiv.org/abs/2506.00258'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/iReason.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/iReason'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \

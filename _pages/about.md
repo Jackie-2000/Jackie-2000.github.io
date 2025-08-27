@@ -27,7 +27,7 @@ Publication & Preprints
 ------
 * Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs \
   **Qianqi Yan**, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
-  *EMNLP 2025 Mainw* \
+  *EMNLP 2025 Main* \
   <a href='https://arxiv.org/abs/2506.00258'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/iReason.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/iReason'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \
@@ -52,9 +52,12 @@ Publication & Preprints
 
 Service
 ------
-Program Committee Member (Reviewer)
+Organizer
+* Workshop CLVL @NeurIPS 2025
+
+Program Committee
 * Main Conference: ICLR 2025, ICLR 2024, ICCV 2023
-* Workshop: ALVR 2024
+* Workshop: ALVR @ACL 2024
 
 Education
 ------

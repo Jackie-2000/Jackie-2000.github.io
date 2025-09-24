@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a second-year CSE Ph.D. student @University of California, Santa Cruz, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at eBay as a research scientist. 
+I am Qianqi "Jackie" Yan, a third-year CSE Ph.D. student @University of California, Santa Barbara, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at Oracle and eBay as a research scientist. 
 
 I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
@@ -17,6 +17,7 @@ I work on multimodal LLMs. My research interests focus on trustworthy AI models 
 
 News
 ------
+* [2025.09] I will be hosting 4th ALVR workshop at ACL 2026.
 * [2025.08] One paper accepted to EMNLP 2025! I will be attending EMNLP 2025 in Suzhou, China. Please feel free to reach out for a chat!
 * [2025.05] Two papers accepted to ACL 2025!
 * [2025.04] I will join Oracle Health AI as a research intern in the 2025 summer.
@@ -53,15 +54,16 @@ Publication & Preprints
 Service
 ------
 Organizer
-* Workshop CLVL @NeurIPS 2025
+* Workshop AVLR @ACL 2026, CLVL @NeurIPS 2025
 
 Program Committee
-* Main Conference: ICLR 2025, ICLR 2024, ICCV 2023
+* Main Conference: ICLR 2025 2026, ICLR 2024, ICCV 2023
 * Workshop: ALVR @ACL 2024
 
 Education
 ------
-* Ph.D. in Computer Science, University of California, Santa Cruz, 2023 - present
+* Ph.D. in Computer Science, University of California, Santa Barbara, 2025 - present
+* Ph.D. in Computer Science, University of California, Santa Cruz, 2023 - 2025
 * B.S.E. in Computer Science, University of Michigan (Ann Arbor), 2021 - 2023
 * B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2019 - 2023
 * Visiting Student, Technische Universit¨at Berlin, 2020

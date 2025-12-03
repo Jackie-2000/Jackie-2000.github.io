@@ -13,7 +13,7 @@ I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Prev
 
 Research Interests
 ------
-I work on multimodal LLMs. My research interests focus on trustworthy AI models and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to talk with you ;)
+I work on multimodal LLMs. My research interests focus on reasoning, trustworthy AI models, and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to chat ;)
 
 News
 ------

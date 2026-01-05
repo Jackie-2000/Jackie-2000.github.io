@@ -26,7 +26,7 @@ News
 
 Publication & Preprints
 ------
-* Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \
+* Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \ 
   **Qianqi Yan**, Huy V. Nguyen, Sumana Srivatsa, Hari Bandi, Xin Eric Wang, Krishnaram Kenthapadi \ 
   *ML4H, 2025 Findings* \
   

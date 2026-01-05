@@ -26,6 +26,10 @@ News
 
 Publication & Preprints
 ------
+* Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \
+  **Qianqi Yan**, Huy V. Nguyen, Sumana Srivatsa, Hari Bandi, Xin Eric Wang, Krishnaram Kenthapadi \ 
+  *ML4H, 2025 Findings* \
+  
 * Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs \
   **Qianqi Yan**, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
   *EMNLP 2025 Main* \

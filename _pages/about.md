@@ -13,7 +13,7 @@ I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Prev
 
 Research Interests
 ------
-I work on multimodal LLMs. My research interests focus on reasoning, trustworthy AI models, and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to chat ;)
+I work on multimodal LLMs. My research interests focus on reasoning, trustworthy AI, and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to chat ;)
 
 News
 ------
@@ -21,11 +21,14 @@ News
 * [2025.08] One paper accepted to EMNLP 2025! I will be attending EMNLP 2025 in Suzhou, China. Please feel free to reach out for a chat!
 * [2025.05] Two papers accepted to ACL 2025!
 * [2025.04] I will join Oracle Health AI as a research intern in the 2025 summer.
-* [2024.12] I will be attending Neurips 2024 and presenting at the [GenAI4Health Workshop](https://genai4health.github.io/).
 * [2024.04] I will join eBay as a research intern in the 2024 summer.
 
 Publication & Preprints
 ------
+* PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models \
+  Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, **Qianqi Yan**, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang
+  *ICLR, 2026 Main*
+
 * Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \
   **Qianqi Yan**, Huy V. Nguyen, Sumana Srivatsa, Hari Bandi, Xin Eric Wang, Krishnaram Kenthapadi \
   *ML4H, 2025 Findings*
@@ -47,7 +50,7 @@ Publication & Preprints
   
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
   Yue Fan, Jing Gu, Kaiwen Zhou, **Qianqi Yan**, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang\
-  *ACL 2024* \
+  *ACL 2024 Main* \
   <a href='https://arxiv.org/abs/2401.15847'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://sites.google.com/view/multipanelvqa/home'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MultipanelVQA'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
 
 * Med-HVL: Automatic Medical Domain Hallucination Evaluation for Large Vision-Language Models \
@@ -58,7 +61,7 @@ Publication & Preprints
 Service
 ------
 Organizer
-* Workshop AVLR @ACL 2026, CLVL @NeurIPS 2025
+* Workshop: AVLR @ACL 2026, CLVL @NeurIPS 2025
 
 Program Committee
 * Main Conference: ICLR 2025 2026, ICLR 2024, ICCV 2023

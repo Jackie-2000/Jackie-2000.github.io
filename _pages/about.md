@@ -17,17 +17,18 @@ I work on multimodal LLMs. My research interests focus on reasoning, trustworthy
 
 News
 ------
-* [2025.09] I will be hosting 4th ALVR workshop at ACL 2026.
+* [2026.02] I will join Amazon as a research intern in 2026 summer.
+* [2025.09] I will be hosting [4th ALVR workshop](https://alvr-workshop.github.io/) at ACL 2026.
 * [2025.08] One paper accepted to EMNLP 2025! I will be attending EMNLP 2025 in Suzhou, China. Please feel free to reach out for a chat!
 * [2025.05] Two papers accepted to ACL 2025!
-* [2025.04] I will join Oracle Health AI as a research intern in the 2025 summer.
-* [2024.04] I will join eBay as a research intern in the 2024 summer.
+* [2025.04] I will join Oracle Health AI as a research intern in 2025 summer.
+* [2024.04] I will join eBay as a research intern in 2024 summer.
 
 Publication & Preprints
 ------
 * PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models \
-  Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, **Qianqi Yan**, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang
-  *ICLR, 2026 Main*
+  Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, **Qianqi Yan**, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang \
+  *ICLR, 2026 **Oral***
 
 * Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \
   **Qianqi Yan**, Huy V. Nguyen, Sumana Srivatsa, Hari Bandi, Xin Eric Wang, Krishnaram Kenthapadi \

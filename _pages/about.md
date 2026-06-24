@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a third-year CSE Ph.D. student @University of California, Santa Barbara, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at Oracle and eBay as a research scientist. 
+I am Qianqi "Jackie" Yan, a Ph.D. candidate @University of California, Santa Barbara, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at Oracle and eBay as an applied research scientist. 
 
 I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
@@ -26,6 +26,10 @@ News
 
 Publication & Preprints
 ------
+* OmniTrace: A Unified Framework for Generation-Time Attribution in Omni-Modal LLMs \
+  **Qianqi Yan**, Yichen Guo, Ching-Chen Kuo, Shan Jiang, Hang Yin, Yang Zhao, Xin Eric Wang \
+  *Preprint*
+  
 * PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models \
   Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, **Qianqi Yan**, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang \
   *ICLR, 2026 **Oral***
@@ -36,22 +40,22 @@ Publication & Preprints
   
 * Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs \
   **Qianqi Yan**, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
-  *EMNLP 2025 Main* \
+  *EMNLP 2025* \
   <a href='https://arxiv.org/abs/2506.00258'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/iReason.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/iReason'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \
   **Qianqi Yan**, Yue Fan, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
-  *ACL 2025 Findings* \
+  *ACL 2025* \
   <a href='https://arxiv.org/abs/2502.16033'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/mmir.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MMIR'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
   **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
-  *ACL 2025 Findings* \
+  *ACL 2025* \
   <a href='https://arxiv.org/abs/2405.20421'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/probmed.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/ProbMed'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
   
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
   Yue Fan, Jing Gu, Kaiwen Zhou, **Qianqi Yan**, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang\
-  *ACL 2024 Main* \
+  *ACL 2024* \
   <a href='https://arxiv.org/abs/2401.15847'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://sites.google.com/view/multipanelvqa/home'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MultipanelVQA'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
 
 * Med-HVL: Automatic Medical Domain Hallucination Evaluation for Large Vision-Language Models \
@@ -65,7 +69,7 @@ Organizer
 * Workshop: AVLR @ACL 2026, CLVL @NeurIPS 2025
 
 Program Committee
-* Main Conference: ICLR 2025 2026, ICLR 2024, ICCV 2023
+* Main Conference: NeurIPS 2026, ICLR 2025-2026, ICLR 2024, ICCV 2023
 * Workshop: ALVR @ACL 2024
 
 Education
@@ -78,6 +82,7 @@ Education
 
 Teaching
 ------
+* CS165A: Artificial Intelligence, University of California, Santa Barbara
 * CSE101: Introduction to Data Structures and Algorithms, University of California, Santa Cruz
 * EECS 448: Human-Centered Machine Learning, University of Michigan, Ann Arbor
 * VE 215: Intro to Circuits, Shanghai Jiao Tong University

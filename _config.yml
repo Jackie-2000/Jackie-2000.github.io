@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qianqi Yan"
 title_separator          : "-"
 name                     : &name "Qianqi Yan"
-description              : &description "CS PhD student @ University of California, Santa Barbara"
+description              : &description "CS Ph.D. candidate @ UC Santa Barbara, on the 2027 job market"
 url                      : https://Jackie-2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jackie-2000.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qianqi Yan"
   avatar           : "avatar2.jpg"
-  bio              : "CSE Ph.D. student @ University of California, Santa Barbara"
+  bio              : "CS Ph.D. candidate @ UC Santa Barbara. On the job market for full-time roles starting summer 2027."
   location         : "Goleta, California"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

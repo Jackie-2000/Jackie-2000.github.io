@@ -7,52 +7,94 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qianqi "Jackie" Yan, a Ph.D. candidate @University of California, Santa Barbara, working with Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. Previously, I interned at Oracle and eBay as an applied research scientist. 
+> **🎓 I am on the job market!** I am graduating in **June 2027** and looking for **full-time research scientist / applied scientist** positions in industry, starting summer 2027. Feel free to reach out at [qianqi@ucsb.edu](mailto:qianqi@ucsb.edu).
 
-I obtained my bachelor's degree from the University of Michigan, Ann Arbor. Previously, I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
+I am Qianqi "Jackie" Yan, a Ph.D. candidate in Computer Science @University of California, Santa Barbara, advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab (I began my Ph.D. at UC Santa Cruz in 2023 and transferred with my advisor in 2025). I have interned as an Applied Scientist at Amazon, Oracle, and eBay.
+
+I obtained my bachelor's degrees from the University of Michigan, Ann Arbor (B.S.E. in Computer Science, *Summa cum laude*) and Shanghai Jiao Tong University (B.S.E. in Electrical and Computer Engineering), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
 Research Interests
 ------
-I work on multimodal LLMs. My research interests focus on reasoning, trustworthy AI, and AI for healthcare. Please don't hesitate to email me if you are interested in this area. I will be happy to chat ;)
+My research focuses on **trustworthy multimodal LLMs and agents**. I build benchmarks and attribution methods to measure and mitigate failures of modern multimodal models, including:
+* **Hallucination & faithfulness**: probing evaluations and inconsistency/underspecification reasoning for multimodal LLMs (ProbMed, MMIR, iReason)
+* **Attribution & auditing**: training-free, generation-time evidence attribution across text, image, audio, and video (OmniTrace, clinical summarization auditing)
+* **Agent safety**: deceptive behavior of tool-using LLM agents under pressure (AgentDecept) and agent harness safety
+* **Generative media forensics & understanding**: forgery detection for diffusion-based document edits, and locating reasoning in image/video generators
+
+Please don't hesitate to email me if you are interested in these areas. I am happy to chat ;)
 
 News
 ------
-* [2026.02] I will join Amazon as a research intern in 2026 summer.
-* [2025.09] I will be hosting [4th ALVR workshop](https://alvr-workshop.github.io/) at ACL 2026.
+* [2026.11] 🎓 I am on the job market for full-time research/applied scientist roles starting summer 2027!
+* [2026.09] Finished my Applied Scientist internship at Amazon, working on generative document forgery detection. Work submitted to CVPR 2027.
+* [2026.09] I will be co-organizing the [5th ALVR workshop](https://alvr-workshop.github.io/) at ACL 2027.
+* [2026.01] PhyWorldBench accepted to ICLR 2026 as an **Oral** presentation!
+* [2025.09] I will be hosting the [4th ALVR workshop](https://alvr-workshop.github.io/) at ACL 2026.
 * [2025.08] One paper accepted to EMNLP 2025! I will be attending EMNLP 2025 in Suzhou, China. Please feel free to reach out for a chat!
 * [2025.05] Two papers accepted to ACL 2025!
-* [2025.04] I will join Oracle Health AI as a research intern in 2025 summer.
-* [2024.04] I will join eBay as a research intern in 2024 summer.
+* [2025.04] I will join Oracle Health AI as an applied scientist intern in 2025 summer.
+* [2024.04] I will join eBay as an applied scientist intern in 2024 summer.
 
-Publication & Preprints
+Experience
 ------
+* **Amazon**, Applied Scientist Intern, San Diego, CA (Jun. 2026 – Sep. 2026) \
+  Paired forgery synthesis pipeline and factorized benchmark for detecting diffusion-based text edits in document images.
+* **Oracle Health AI**, Applied Scientist Intern, Santa Clara, CA (Jun. 2025 – Sep. 2025) \
+  Training-free, attention-guided attribution for multimodal clinical summarization; up to 15% citation F1 gain. Published at ML4H 2025 and filed as a U.S. patent.
+* **eBay**, Applied Scientist Intern, San Jose, CA (Jun. 2024 – Sep. 2024) \
+  Multimodal retrieval combining image embeddings with fine-grained title representations; +12.1% MAR@1 and +26.0% MAR@10, robust to single-modality dropout.
+
+Preprints & Under Review
+------
+* AgentDecept: Benchmarking Deceptive Behavior in Tool-Using LLM Agents under Pressure \
+  **Qianqi Yan**, Yehan Zhang, Hang Yin, Ching-Chen Kuo, Shan Jiang, Ming Ouyang, Yijie Liu, Xin Eric Wang \
+  *Under review*
+
 * OmniTrace: A Unified Framework for Generation-Time Attribution in Omni-Modal LLMs \
   **Qianqi Yan**, Yichen Guo, Ching-Chen Kuo, Shan Jiang, Hang Yin, Yang Zhao, Xin Eric Wang \
-  *Preprint*
-  
+  *Under review*
+
+* Do Generators Think in Pixels? Locating Reasoning in Image and Video Generators \
+  **Qianqi Yan**, Jinru Han, Kaizhi Zheng, Yuhang Gan, Xin Eric Wang \
+  *Under review*
+
+* Many Forgeries, Many Questions: A Paired, Factorized Dataset for Generative Document Forgery Detection \
+  **Qianqi Yan**, Richard Y. Chen, Chi Zhang, Daniel Cociorva, Xin Eric Wang \
+  *Under review*
+
+* Auditing Agent Harness Safety \
+  Chengzhi Liu, Yichen Guo, Yepeng Liu, Yuzhe Yang, **Qianqi Yan**, et al. \
+  *Under review*
+
+* Skill-CMIB: Multimodal Agent Skill for Consistent Action via Conditional Multimodal Information Bottleneck \
+  Zihan Huang, Junda Wu, Tong Yu, **Qianqi Yan**, et al. \
+  *Under review*
+
+Publications
+------
 * PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models \
   Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan, **Qianqi Yan**, Kaiwen Zhou, Ming-Yu Liu, Xin Eric Wang \
   *ICLR, 2026 **Oral***
 
-* Cite-While-You-Generate: Training-Free Evidence Attribution for Multimodal Clinical Summarization \
+* From Attribution to Abstention: Training-Free Attention-Based Auditing for Clinical Summarization \
   **Qianqi Yan**, Huy V. Nguyen, Sumana Srivatsa, Hari Bandi, Xin Eric Wang, Krishnaram Kenthapadi \
-  *ML4H, 2025 Findings*
-  
+  *ML4H 2025*
+
 * Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs \
   **Qianqi Yan**, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
   *EMNLP 2025* \
   <a href='https://arxiv.org/abs/2506.00258'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/iReason.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/iReason'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
-  
+
 * Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models \
   **Qianqi Yan**, Yue Fan, Hongquan Li, Shan Jiang, Yang Zhao, Xinze Guan, Ching-Chen Kuo, Xin Eric Wang \
   *ACL 2025* \
   <a href='https://arxiv.org/abs/2502.16033'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/mmir.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/MMIR'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
-  
+
 * Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA \
   **Qianqi Yan**, Xuehai He, Xiang Yue, Xin Eric Wang \
   *ACL 2025* \
   <a href='https://arxiv.org/abs/2405.20421'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://jackie-2000.github.io/probmed.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> <a href='https://github.com/eric-ai-lab/ProbMed'><img src='https://img.shields.io/badge/Code-Github-brightgreen?logo=github'></a>
-  
+
 * Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA \
   Yue Fan, Jing Gu, Kaiwen Zhou, **Qianqi Yan**, Shan Jiang, Ching-Chen Kuo, Xinze Guan, Xin Eric Wang\
   *ACL 2024* \
@@ -66,19 +108,22 @@ Publication & Preprints
 Service
 ------
 Organizer
-* Workshop: AVLR @ACL 2026, CLVL @NeurIPS 2025
+* Workshop: [5th ALVR @ACL 2027](https://alvr-workshop.github.io/), [4th ALVR @ACL 2026](https://alvr-workshop.github.io/), CLVL @ICCV 2025
 
-Program Committee
-* Main Conference: NeurIPS 2026, ICLR 2025-2026, ICLR 2024, ICCV 2023
-* Workshop: ALVR @ACL 2024
+Editor
+* Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR), ACL 2026
+
+Reviewer
+* Main Conference: NeurIPS 2026, ICLR 2024-2026
+* Workshop: ALVR @ACL 2024, CLVL @ICCV 2023
 
 Education
 ------
-* Ph.D. in Computer Science, University of California, Santa Barbara, 2025 - present
-* Ph.D. in Computer Science, University of California, Santa Cruz, 2023 - 2025
-* B.S.E. in Computer Science, University of Michigan (Ann Arbor), 2021 - 2023
+* Ph.D. in Computer Science, University of California, Santa Barbara, 2025 - Jun. 2027 (expected)
+* Ph.D. in Computer Science, University of California, Santa Cruz, 2023 - 2025 (transferred with advisor)
+* B.S.E. in Computer Science, *Summa cum laude*, University of Michigan (Ann Arbor), 2021 - 2023
 * B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2019 - 2023
-* Visiting Student, Technische Universit¨at Berlin, 2020
+* Visiting Student, Technische Universität Berlin, 2020
 
 Teaching
 ------

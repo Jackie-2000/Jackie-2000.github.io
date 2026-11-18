@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> **🎓 I am on the job market!** I am graduating in **June 2027** and looking for **full-time research scientist / applied scientist** positions in industry, starting summer 2027. Feel free to reach out at [qianqi@ucsb.edu](mailto:qianqi@ucsb.edu).
+> **🎓 I am on the job market!** I am looking for **full-time research scientist / applied scientist** positions in industry, starting fall 2027. Feel free to reach out at [qianqi@ucsb.edu](mailto:qianqi@ucsb.edu).
 
 I am Qianqi "Jackie" Yan, a Ph.D. candidate in Computer Science @University of California, Santa Barbara, advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab (I began my Ph.D. at UC Santa Cruz in 2023 and transferred with my advisor in 2025). I have interned as an Applied Scientist at Amazon, Oracle, and eBay.
 

@@ -9,7 +9,7 @@ redirect_from:
 ---
 > **🎓 I am on the job market!** I am looking for **full-time research scientist / applied scientist** positions in industry, starting fall 2027. Feel free to reach out at [qianqi@ucsb.edu](mailto:qianqi@ucsb.edu).
 
-I am Qianqi "Jackie" Yan, a Ph.D. candidate in Computer Science @University of California, Santa Barbara, advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab (I began my Ph.D. at UC Santa Cruz in 2023 and transferred with my advisor in 2025). I have interned as an Applied Scientist at Amazon, Oracle, and eBay.
+I am Qianqi "Jackie" Yan, a Ph.D. candidate in Computer Science @University of California, Santa Barbara, advised by Prof. [Xin (Eric) Wang](https://eric-xw.github.io/) as a member of the [UC Santa Barbara AI Group](https://nlp.cs.ucsb.edu/). I have interned as an Applied Scientist at Amazon, Oracle Heath AI, and eBay.
 
 I obtained my bachelor's degrees from the University of Michigan, Ann Arbor (B.S.E. in Computer Science, *Summa cum laude*) and Shanghai Jiao Tong University (B.S.E. in Electrical and Computer Engineering), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
